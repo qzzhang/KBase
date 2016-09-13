@@ -2,7 +2,7 @@ module-name:
     qzContigFilter
 
 module-description:
-    A KBase module
+    My first KBase module, for learning about module creation within KBase SDK
 
 service-language:
     python
@@ -11,5 +11,5 @@ module-version:
     0.0.1
 
 owners:
-    [qzhang]
+    qzhnag--my KBase user name
 
